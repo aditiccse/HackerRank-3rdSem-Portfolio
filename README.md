@@ -53,7 +53,7 @@ All five required problems were successfully submitted on HackerRank.
 ![Dynamic Array](./03-Dynamic%20-Array.png)
 
 ### Time Conversion
-![Time Conversion](./04-Time%20Conversion.png)
+![Time Conversion](./04-Time-Conversion.png)
 
 ### Compare the Triplets
 ![Compare the Triplets](./05-Compare%20the%20Triplets.png)
