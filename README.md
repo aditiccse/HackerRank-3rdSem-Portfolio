@@ -44,19 +44,19 @@ All five required problems were successfully submitted on HackerRank.
 ## HackerRank Screenshots
 
 ### HackerRank Profile
-![HackerRank Profile](./01-hackerrank-profile.png)
+![HackerRank Profile](./01-hackerrank%20profile.png)
 
 ### Diagonal Difference
-![Diagonal Difference](./02-Diagonal-Difference.png)
+![Diagonal Difference](./02-Diagonal%20-Difference.png)
 
 ### Dynamic Array
-![Dynamic Array](./03-Dynamic-Array.png)
+![Dynamic Array](./03-Dynamic%20-Array.png)
 
 ### Time Conversion
-![Time Conversion](./04-Time-Conversion.png)
+![Time Conversion](./04-Time%20Conversion.png)
 
 ### Compare the Triplets
-![Compare the Triplets](./05-Compare-the-Triplets.png)
+![Compare the Triplets](./05-Compare%20the%20Triplets.png)
 
 ### Sparse Arrays
-![Sparse Arrays](./06-Sparse-Array.png)
+![Sparse Arrays](./06-Sparse%20Array.png)
